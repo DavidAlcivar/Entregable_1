@@ -38,9 +38,10 @@
 }
 
 .button {
+    background: linear-gradient(rgba(241, 241, 243, 0.75),rgba(115, 115, 116, 0.75));
     border-radius: 50%;
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     font-size: 2rem;
     display: flex;
     align-items: center;
